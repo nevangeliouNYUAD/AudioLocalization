@@ -1,0 +1,17 @@
+catkin_pkg==1.0.0
+cv_bridge==1.16.2
+std_msgs==0.0.1
+dynamixel_sdk==3.7.31
+easydict==1.13
+urllib3==1.26.16
+timm==0.9.16
+torch==2.2.2
+torchvision==0.17.2
+matplotlib==3.7.1
+librosa==0.10.1
+PyAudio==0.2.14
+numpy==1.24.3
+PyYAML==6.0.1
+rospkg
+scipy==1.10.1
+opencv-python
