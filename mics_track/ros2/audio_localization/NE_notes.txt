@@ -1,0 +1,2 @@
+https://docs.ros.org/en/humble/How-To-Guides/Migrating-from-ROS1/Migrating-Python-Packages.html
+https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html
